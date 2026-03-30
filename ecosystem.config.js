@@ -16,7 +16,7 @@ module.exports = {
       name: "api-gateway",
       script: "java",
       args: "-jar api-gateway/target/api-gateway-0.0.1-SNAPSHOT.jar",
-      "log-file"": "./logs/api-gateway.log",
+      "log-file": "./logs/api-gateway.log",
     }
   ]
 };
